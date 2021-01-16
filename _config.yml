@@ -1,0 +1,51 @@
+# Site
+name: 'Smarter.Blog'
+description: 'Improve your thinking, one day at a time'
+logo: 'assets/images/logo.png'
+favicon32: 'assets/images/favicon-32x32.png'
+faviconapple: 'assets/images/apple-touch-icon.png'
+favicon16: 'assets/images/favicon-16x16.png'
+webmanifest: 'assets/images/site.webmanifest'
+
+baseurl: ''
+disqus: ''
+email: ''
+mailchimp-list: 'https://mailchi.mp/a48618289422/subscribe-for-newsletter'
+
+include: ["_pages"]
+permalink: /:title/
+
+plugins_dir: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+  
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: pages
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
