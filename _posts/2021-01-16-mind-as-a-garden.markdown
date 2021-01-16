@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your mind is a garden"
+title: "Your mind as a garden"
 date: 2021-01-16 06:00
 comments: true
 categories: ["mind over matter"]
