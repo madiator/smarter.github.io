@@ -37,7 +37,9 @@ You can apply deliberate practice to improve your guitar skills, or to improve c
 Thus, deliberate practice is very different from regular practice. I have been practicing "typing" without focusing on improving the skill. It was not mindful, it was very much mindless.
 If I spend several more hours practicing "typing" deliberately, I could improve it drastically. This will require intense focus, and some form of feedback to fix my mistakes (e.g. using a software or a website).
 
-Ericsson gives similar examples like typing: when you don't know how to play tennis, you start practicing and you slowly get better until one day you realize that you have hit a plateau and have not improved for a long time. Most likely this is because initially you had to focus quite a bit to get to a decent shape, and then you stopped focusing. The games became fun (instead of being challenging). It allowed you to have nice conversations in the court with your opponent.
+Ericsson gives similar examples like typing: Suppose you don't know how to play tennis and you start learning it. Initially you focus as you practice, and most likely there is someone teaching you how to play and correcting your mistakes. It is deliberate practice. Eventually you don't struggle as much, and it actually becomes a lot of fun to play. You don't need to focus as much and you can enjoy having pleasant conversations with your opponent. You went from deliberate practice, that set you up on a path to improvement, to just practice. You have plateaued. To improve, you need to push yourself and it is hard work.
+
+What makes deliberate practice different from practice?
 
 ### Key ingredient #1: Focus
 

@@ -6,6 +6,7 @@
 	<p class="excerpt">
 	   {{ post.excerpt  | strip_html | strip_newlines | truncate: 186}}
 	</p>
+	<!--
 	<small class="d-block text-muted">
 		In <span class="catlist">
 		{% for category in post.categories %}
@@ -13,6 +14,7 @@
 		{% endfor %}
 		</span>
 	</small>
+-->
 	<!--
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}
