@@ -9,7 +9,7 @@ published: true
 tags: sticky
 ---
 [Malcom Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) popularized the 10,000 hours rule in his famous book [Outliers: The Story of Success](https://amzn.to/2Xy5KoJ). 
-The gist of ten thousand hours rule is that if you want to become a world-class expert in a domain, you will need to practice for around ten thousand hours or so. When I had first read that book (almost ten years ago), I was impressed and inspired. But then I started hearing complaints about the book: that the ten thousand hour rule was over-simplified, and Gladwell may have not stuck to high standards when reporting on some examples[^gladwellnote].
+The gist of the ten thousand hours rule is that if you want to become a world-class expert in a domain, you will need to practice for around ten thousand hours or so. When I had first read that book (almost ten years ago), I was impressed and inspired. But then I started hearing complaints about the book: that the ten thousand hour rule was over-simplified, and Gladwell may have not stuck to high standards when reporting on some examples[^gladwellnote].
 
 Let's take a simple example to illustrate where Gladwell went wrong: Most of us have been typing for a long time (i.e. practicing the skill of "typing"). I might have even practiced this skill for ten thousand hours by now. Am I an expert typist? Heck no. My typing speed is maxing out at 70 wpm (words per minute). The highest typing speed is above 200. So why am I not an expert despite my 10,000+ hours at typing?
 
@@ -48,14 +48,14 @@ Talking about the American swimmer Natalie Coughlin, Ericsson writes:
 
 > While she was a good swimmer, she didn't become great until she learned to focus throughout her practice.
 
-When you practice at your current level of exptertise, your brain relaxes. You are able to do it without intense focus. Imagine driving through your neighborhood --- you are able to talk or listen to radio while still being able to drive.
+When you practice at your current level of expertise, your brain relaxes. You are able to do it without intense focus. Imagine driving through your neighborhood --- you are able to talk or listen to radio while still being able to drive.
 
-But when you truly challenge yourself to practice above your current level of expterise, the only way to do that is with intense focus. Imagine being in tricky situations --- your focus level goes up and you can't really talk while driving.
+But when you truly challenge yourself to practice above your current level of expertise, the only way to do that is with intense focus. Imagine being in tricky situations --- your focus level goes up and you can't really talk while driving.
 
 
 ### Key ingredient #2: Feedback
 
-You need to be able to correct the mistakes you make. In particular, it is always very helpful to have some mechanism with which you can identify the mistakes you make. This can be a coach, or a recording of yourself performing, or a softare (for example when improving the skill of "typing").
+You need to be able to correct the mistakes you make. In particular, it is always very helpful to have some mechanism with which you can identify the mistakes you make. This can be a coach, or a recording of yourself performing, or a software (for example when improving the skill of "typing").
 
 ### Role of rest
 
@@ -66,13 +66,13 @@ So, how exactly does deliberate practice help you become an expert? The answer l
 
 ## How does it help: Better Mental representations
 
-Consider reading: when you started out reading (as a child, I suppose), you would read character by character, and then read out the word. As time went by, you were able to "internalize" words and were able to read out word by word, instead of character by character. What happened here is that your mental represenation of language improved. When you look at a word (e.g. elephant), you immediately know what the word is, instead of reading it out as e-l-e-p-h-a-n-t.
+Consider reading: when you started out reading (as a child, I suppose), you would read character by character, and then read out the word. As time went by, you were able to "internalize" words and were able to read out word by word, instead of character by character. What happened here is that your mental representation of language improved. When you look at a word (e.g. elephant), you immediately know what the word is, instead of reading it out as e-l-e-p-h-a-n-t.
 
-Similary, experts when compared to others, have much better mental representations in their domains. For example, Chess players parse the board much differently than the rest of us. When most of us look at the board, we see the individual pieces and the grid and get a rough idea about what the pieces are doing. An absolute new beginner who hasn't seen a chess board before will not even be able to grasp as much information as you do.
+Similarly, experts when compared to others, have much better mental representations in their domains. For example, Chess players parse the board much differently than the rest of us. When most of us look at the board, we see the individual pieces and the grid and get a rough idea about what the pieces are doing. An absolute new beginner who hasn't seen a chess board before will not even be able to grasp as much information as you do.
 
 Expert chess players, on the other hand, absorb in a lot more information --- they see which pieces are weakly positioned vs. which ones are strongly positioned. They probably almost see a story that is playing out on the board. If you show a valid board, and then ask them to recall, they are able to recall very well. I, on the other hand, will struggle to recall a few pieces here and there. Also, interestingly, if you show an invalid board, with the pieces placed incorrectly, they will struggle to recall the board!
 
-The point about mental represntations is that better mental representations help you think faster and clearer than others. And deliberate practice helps to hone the mental representations.
+The point about mental representations is that better mental representations help you think faster and clearer than others. And deliberate practice helps to hone the mental representations.
 
 There are of course a number of other factors that help and influence expertise (for example, it helps a lot to have great teachers and to get immediate feedback so as to correct your mistakes), and Ericsson does a great job about explaining all of this.
 
