@@ -5,7 +5,7 @@ date: 2021-01-18 06:00
 comments: true
 categories: ["mind over matter"]
 published: true
-tags: featured
+image: assets/images/endeavour.jpg
 ---
 
 When I was young, I wanted to grow up and be successful. I mistook being rich to being successful and so I was trying to see how rich people got rich. I found out that some people got rich by luck (such as by inheritance), but many others seemed to have gotten rich by being spectacularly smart. So I always wondered: how do I become a “smart guy”?
@@ -34,7 +34,7 @@ And so, we can claim that Warren Buffett is smarter than me when it comes to inv
 
 And if you think about it, the indigenous people of New Guinea are probably extremely adept at navigating jungles in the dark. I am sure most of us will get lost hopelessly in a dense jungle, and thus look dumb in the eyes of Papuans, when it comes to navigating.
 
-So, you can’t become a “smart guy” (the word guy is used in a gender agnostic form here). You could become a “smarter guy”, as compared to a reference human; but comparing against somebody is not a good idea. A better idea is to compare against yesterday’s yourself and see if you are smarter or not.
+So, you can’t become a “smart guy” (the word guy is used in a gender agnostic form here). You could become a “smarter guy”, as compared to a reference human; but comparing against others is a pursuit that never ends wells. A better idea is to compare against yesterday’s yourself and see if you are smarter or not.
 
 In the next post, I will talk a bit more about how we can think about comparing circles of competence.
 
