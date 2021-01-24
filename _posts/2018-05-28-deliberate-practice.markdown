@@ -59,12 +59,15 @@ You need to be able to correct the mistakes you make. In particular, it is alway
 
 ### Role of rest
 
-Since deliberate practice is extremely effortful, it is hard to sustain it for only a few hours at the maximum. After that you really need to rest.
+Since deliberate practice is extremely effortful, it is hard to sustain it for only a few hours at a time. After that you really need to rest.
 
+Ericsson [says](https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/DeliberatePractice(PsychologicalReview).pdf)
 
-So, how exactly does deliberate practice help you become an expert? The answer lies in mental representations.
+> The command to rest is fully as important as to work in effective learning"... Both Auer (1921), the famous violin teacher, and C. E. Seashore (1938/ 1967) recommended that practice periods be limited to less than 1 hr with ample rest in between.
 
 ## How does it help: Better Mental representations
+
+So, how exactly does deliberate practice help you become an expert? The answer lies in mental representations.
 
 Consider reading: when you started out reading (as a child, I suppose), you would read character by character, and then read out the word. As time went by, you were able to "internalize" words and were able to read out word by word, instead of character by character. What happened here is that your mental representation of language improved. When you look at a word (e.g. elephant), you immediately know what the word is, instead of reading it out as e-l-e-p-h-a-n-t.
 

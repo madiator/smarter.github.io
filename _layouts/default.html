@@ -83,11 +83,15 @@
             {% if site.mailchimp-list %}
                 
                 <div class="row justify-content-between">
+                    <!--
                     <div class="col-md-6 mb-2 mb-md-0">
                         <h5 class="font-weight-bold">Join Newsletter</h5>
-                         Subscribe to receive updates. No spam.
+                         Subscribe to receive periodic updates. No spam, no politics.
                     </div>
+                    -->
+                    <div class="col-md-3"></div>
                     <div class="col-md-6">
+                        <!--
                         <div class="row">
                             <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate w-100" target="_blank" novalidate>
                             <div class="mc-field-group">
@@ -100,7 +104,11 @@
                             </div>
                             </form>
                         </div>
+                        -->
+                        <h2 class="font-weight-bold" style="text-align: center;">Join the Newsletter</h2>    
+                        <iframe src="https://smarter.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
                     </div>
+                    <div class="col-md-3"></div>
                 </div>
             {% endif %}
         </div>
