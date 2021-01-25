@@ -18,6 +18,7 @@ Where necessary, this website uses cookies to store information about a visitorâ
 
 
 #### Advertisement and Other Third Parties
+"{{site.name}}" participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.
 
 Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Googleâ€™s cookie usage](http://www.google.com/privacy_ads.html).
 
