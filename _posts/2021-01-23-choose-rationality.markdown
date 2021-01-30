@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strive to choose rationality"
-date: 2021-01-23 00:00
+date: 2021-01-30 00:00
 comments: true
 categories: ["mind over matter"]
 published: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deliberate Practice: A Guide"
-date: 2021-01-16 06:10
+date: 2021-01-23 06:10
 comments: true
 categories: ["mind over matter"]
 image: assets/images/tennis.jpg
