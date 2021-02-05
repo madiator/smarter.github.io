@@ -75,7 +75,7 @@ Similarly, experts when compared to others, have much better mental representati
 
 Expert chess players, on the other hand, absorb in a lot more information --- they see which pieces are weakly positioned vs. which ones are strongly positioned. They probably almost see a story that is playing out on the board. If you show a valid board, and then ask them to recall, they are able to recall very well. I, on the other hand, will struggle to recall a few pieces here and there. Also, interestingly, if you show an invalid board, with the pieces placed incorrectly, they will struggle to recall the board!
 
-The point about mental representations is that better mental representations help you think faster and clearer than others. And deliberate practice helps to hone the mental representations.
+The point about mental representations is that better mental representations help you think faster and clearer than others. And deliberate practice helps to hone the mental representations. And in a way, mental representations are very much akin to mental models. 
 
 There are of course a number of other factors that help and influence expertise (for example, it helps a lot to have great teachers and to get immediate feedback so as to correct your mistakes), and Ericsson does a great job about explaining all of this.
 

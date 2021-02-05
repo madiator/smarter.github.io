@@ -5,11 +5,13 @@ permalink: "/about"
 comments: false
 ---
 ## What is this site about?
-Let's go first with the principle of inversion, and say what this is not about. This is not about making you smarter at solving technical problems. I am not selling supplements for improving brain fog.
+I hope that reading this blog will help you equip with tools to think better. 
 
-But it is, my hope, that reading this will help you equip with tools that can in turn help you think smarter. I hope I can help you present some useful mental models, and point to biases in thinking. I hope you can start to think rationally, to start to think about thinking by reading these newsletters.
+The most precious gift we all have is our mind. Let’s upgrade our mental operating system. Let’s equip ourselves with useful mental models, learn about cognitive biases, learn where we fail and learn how to be more productive.
 
 I don’t have magic powers to rewire your brain. You have to do it yourself and it is probably hard work. I am still working on myself. I am by no means smart, but I only aim to be smarter today as compared to yesterday.
+
+Please check out the associated [Smarter Thinking Newsletter](http://smarter.substack.com).
 
 --- 
 
