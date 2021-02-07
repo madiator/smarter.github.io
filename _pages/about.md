@@ -18,6 +18,7 @@ Please check out the associated [Smarter Thinking Newsletter](http://smarter.sub
 ## About Me
 I work at Google AI and build machine learning models at my day job. \
 The opinions here are my own and not of my employer.
+Follow me on Twitter: [@madiator](http://twitter.com/madiator).
 
 ### Why this project?
 The human mind is fascinating. A monkey may look at the sky and see some stars. But when humans look at the sky, we not just see stars, but decipher our place in the universe and peer into the past.

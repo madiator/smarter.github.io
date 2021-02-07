@@ -6,7 +6,7 @@ comments: true
 categories: ["mind over matter"]
 image: assets/images/tennis.jpg
 published: true
-tags: sticky
+tags: featured
 ---
 [Malcom Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) popularized the 10,000 hours rule in his famous book [Outliers: The Story of Success](https://amzn.to/2Xy5KoJ). 
 The gist of the ten thousand hours rule is that if you want to become a world-class expert in a domain, you will need to practice for around ten thousand hours or so. When I had first read that book (almost ten years ago), I was impressed and inspired. But then I started hearing complaints about the book: that the ten thousand hour rule was over-simplified, and Gladwell may have not stuck to high standards when reporting on some examples[^gladwellnote].

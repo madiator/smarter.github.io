@@ -648,9 +648,9 @@ footer {
     margin-top:10px;
 }
 article {
-	font-size:20px;
-	line-height:1.86;
-    font-family:Quicksand;
+	font-size: 20px;
+	line-height: 1.86;
+    font-family:'Inter', sans-serif;
 }
 .article-headline {
     font-family: 'Tenor Sans', sans-serif;
