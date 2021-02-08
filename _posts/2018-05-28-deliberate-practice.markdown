@@ -42,6 +42,8 @@ Ericsson gives similar examples like typing: Suppose you don't know how to play 
 
 What makes deliberate practice different from practice?
 
+<script async data-uid="8489d98453" src="https://witty-speaker-2308.ck.page/8489d98453/index.js"></script>
+
 ### Key ingredient #1: Focus
 
 Talking about the American swimmer Natalie Coughlin, Ericsson writes:

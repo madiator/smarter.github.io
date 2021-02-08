@@ -11,7 +11,6 @@ The most precious gift we all have is our mind. Let’s upgrade our mental opera
 
 I don’t have magic powers to rewire your brain. You have to do it yourself and it is probably hard work. I am still working on myself. I am by no means smart, but I only aim to be smarter today as compared to yesterday.
 
-Please check out the associated [Smarter Thinking Newsletter](http://smarter.substack.com).
 
 --- 
 
