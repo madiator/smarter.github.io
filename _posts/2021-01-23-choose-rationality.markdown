@@ -64,6 +64,9 @@ Pretty simple right? When I encountered this, I chose 3.
 
 I will let you figure out the reason. And then take a minute to reflect on what happened to you when you tried to come up with the answer. For me, the answer presented itself, and my brain refused to think through all the possibilities. Herein lies the problem. 
 
+<script async data-uid="8489d98453" src="https://witty-speaker-2308.ck.page/8489d98453/index.js"></script>
+
+
 ### It is the cognitive effort, stupid!
 
 Our brain is designed to conserve as much energy as possible --- thinking through such problems consumes valuable energy. This mechanism of conserving energy worked out well, evolutionarily speaking. But clearly, this starts to become a handicap when we want to use our full mental faculty to apply logic or reason.
@@ -79,7 +82,11 @@ So herein lies the problem: we naturally tend to minimize the cognitive effort a
 
 Therefore, to become rational, use system 2 (it's a good start but not enough). To use system 2, learn how and when your system 1 hijacks system 2. To learn how and when this happens, you have to learn to see how you think. You have to learn about cognitive biases and reflect back and figure out which cognitive bias you are falling for. You can learn and utilize better mental models to help system 1 be wrong less often. 
 
-And all of this is not easy, but it is worthy pursuit.
+And all of this is not easy, but it is worthy pursuit. Let's end with Naval's quote again:
+
+> If you can be more right and more rational, you’re going to get nonlinear returns in your life.
+
+
 
 <!--
 ## Benefits of rationality

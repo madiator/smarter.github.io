@@ -5,6 +5,7 @@ date: 2021-02-11 00:00
 comments: true
 categories: ["mind over matter"]
 published: true
+image: "assets/images/painting-of-a-bull.jpg"
 ---
 Martin Seligman famously conducted experiments on dogs where he was able to induce "learned helplessness" in the dogs via electric shocks.
 
