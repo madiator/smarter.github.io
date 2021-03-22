@@ -3,7 +3,7 @@ layout: post
 title: "Find the balance in minimalism"
 date: 2021-03-21 00:00
 comments: true
-image: "assets/images/people-watching-painting-in-gallery.jpg"
+image: "assets/images/dreamy-minimalism.jpg"
 categories: ["mind over matter"]
 published: true
 ---
