@@ -1,1 +1,1 @@
-Homepage/blog of Mahesh Sathiamoorthy.
+Powers [smarter.blog](http://smarter.blog).
