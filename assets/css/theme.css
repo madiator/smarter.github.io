@@ -16,6 +16,10 @@ img {
 	position:relative;
 	z-index:1;
 }
+.figcaption {
+	text-align:center;
+	font-size: 12px;
+}
 .full-width {
 	width:100vw;
 	position:relative;

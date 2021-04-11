@@ -32,7 +32,12 @@ layout: default
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   	<div class="carousel-inner">
     	<div class="carousel-item active">
+    		<figure>
         	<img src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}" class="d-block w-100">
+        	{% if page.figcaption %}
+        		<figcaption class="figcaption">{{ page.figcaption }}</figcaption>
+        	{% endif %}
+        	</figure>
     	</div>
   	</div>
 </div>
