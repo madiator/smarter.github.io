@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Why read books"
+date: 2021-05-28 00:00
+comments: true
+categories: ["mind over matter"]
+published: true
+image: assets/images/books.jpg
+figcaption: Photo by <a href="https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aaron Burden</a> on <a href="https://unsplash.com/s/photos/books?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+---
+[Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X) was nobody at age 21. He didn't know how to read or write. He was sentenced to prison for 10 years for burglary and larceny. But his life changed there when he learned how to read and write. He did it the hard way, by memorizing the words and their definitions from a dictionary. It was an arduous task but he kept at it.[^malcolmx]
+
+In his autobiography, he writes: "... as my word-base broadened, I could for the first time pick up a book and read and now begin to understand what the book was saying. Anyone who has read a great deal can imagine the new world that opened... I never had been so truly free in my life."
+
+"So truly free in my life!""
+
+Malcolm X transformed his own life and those of many others, by reading.
+
+## Why read books?
+The Internet is full of interesting articles, helpful videos, and witty tweets.  Instead of reading books, why not read the news to learn about current events? So many intelligent people are blogging about exciting ideas that you never thought of, so why read books?
+
+There are many reasons why reading books is a worthwhile endeavor as compared to any other form of reading.
+
+### Hight quality knowledge distillation
+First, the authors have spent countless hours doing all the research needed to publish a book. For example, the book[Thinking fast and slow](https://amzn.to/3ftPYoR) is a distillation of the great careers that Daniel Kahneman and Amos Tversky had. Daniel Kahneman won the Nobel prize. It seems inconceivable that one could gain a similar amount of knowledge in a short amount of time by going with the "learn by doing" approach. The book [Principles](https://amzn.to/34s2Q8x), for example, is a lifetime of the wisdom of Ray Dalio distilled into several hundred pages. When you read a book, you can squeeze those years of work that the author(s) put into several hours of your time.
+
+### Master a subject
+Books can be very focused on a single subject. They are well researched, and of high quality (typically). You will be learning new concepts, how they fit together with other concepts, their history, etc. You will be enriching your mental models quite a bit.
+
+They add to your competence in a meaningful way.
+
+Of course, there is value in reading high-quality articles (such as this one!). But the treatment will not be as exhaustive as reading a book. Blogs will give you a scattered amount of knowledge.
+
+### You learn the lost art of focusing, a very useful lost art.
+
+It is pretty unfortunate, but it has come to be that we live in a world of constant interruptions. It has become quite hard to focus on something for more than 5 minutes. Forcing yourselves to read a book (hopefully a physical copy or on Kindle) can help you train your brain to learn to focus.
+
+> For me, giving up reading was a tragedy. I grew up on books, then I switched to blogs, then I switched to Twitter and Facebook, and I realized I wasn’t actually learning anything. I was just taking little dopamine snacks all day long. I was getting my little 140-character burst of dopamine. I would Tweet, then look to see who retweeted my Tweet. It’s a fun and wonderful thing, but it’s a game I was playing. I realized I had to go back to reading books.
+> -- <cite>By Naval (from [The Almanack of Naval Ravikant](https://amzn.to/2Tnz0js)).</cite>
+
+### Reading books trumps reading the news
+
+People waste a lot of time reading the news. There is no necessity to follow events in real-time. Let the events unfold. You can read about them later from a book when it is history. If the news were really important, someone would tell you about it. Of course, there are situations when reading the news is a good idea. If you are a politician, it is part of your job. If you are a techie, reading tech news can help you predict how the future is unfolding.
+
+## What others have to say about reading books
+
+Naval Ravikant, reflecting on his childhood, says:
+
+> My only real friends were books. Books make for great friends, because the best thinkers of the last few thousand years tell you their nuggets of wisdom.
+
+Also this:
+
+> The most important skill for getting rich is becoming a perpetual learner. You have to know how to learn anything you want to learn.
+
+Warren Buffett apparently reads as much as six hours per day.
+
+I remember reading from [Elon Musk's biography](https://amzn.to/2ToUn3T) that he had spent significant amount of time immersed in books as a child. In fact he is known to have said "I was raised by books. Books, and then my parents". 
+
+Similarly, Nassim Taleb also spent significant amount of time reading books as a child.
+
+<hr>
+
+So, what are you waiting for? Go grab a book and read it!
+
+
+[^malcolmx]: https://www.nytimes.com/1993/01/06/opinion/when-x-literacy.html
