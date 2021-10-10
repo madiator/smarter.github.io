@@ -61,5 +61,5 @@ And when they tell you to reduce your water intake because we are in a drought, 
 
 ## Part 3: Thoughts on personal responsibility
 
-This brings us to the final part of the post. On the one hand, it is hard to change people, but on the other hand, it turns out that even if people change their behavior, it won't have a sizable effect. What we need to do, is well articulated in this [video](https://www.youtube.com/watch?v=yiw6_JakZFc) by the popular YouTube Channel [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q). 
+This brings us to the final part of the post. On the one hand, it is hard to change people, but on the other hand, it turns out that even if people change their behavior, it won't have a sizable effect. What we need to do is well articulated in this [video](https://www.youtube.com/watch?v=yiw6_JakZFc) by the popular YouTube Channel [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q). 
 

@@ -33,10 +33,5 @@ So every day, you have a choice: do *task-A* consistently or do a different task
 
 And this brings us back to the original topic of discussion: doing too many things.
 
-You have to have a few *task-A*s that you do every day consistently. Then you get to try other new things, other *task-B*s.
+It is, of course, a good idea to explore a variety of things, but it shouldn't be the norm. Doing many things will help you figure out what works and what doesn't, but you have to pick a *task-A* and settle with it. Don't lose focus, and don't clutter your life. Let compounding do its magic for you.
 
-Those new things could enrich your *task-A*. 
-
-It is, of course, a good idea to explore a variety of things, but it shouldn't be the norm. Doing many things will help you figure out what works and what doesn't, but you have to pick a *task-A* and settle with it. 
-
-When you do too many things, you lose your focus. Your life is cluttered, and you have many unfinished tasks. Keep your focus, and let compounding work for you.
