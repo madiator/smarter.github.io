@@ -7,7 +7,7 @@ categories: ["mind over matter"]
 published: true
 image: assets/images/lego.jpg
 figcaption: Photo by <a href="https://unsplash.com/@glencarrie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glen Carrie</a> on <a href="https://unsplash.com/s/photos/legos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
+tags: sticky
 ---
 People are surprisingly good at adding to rather than subtracting away.
 

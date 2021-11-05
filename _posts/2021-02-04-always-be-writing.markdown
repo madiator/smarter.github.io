@@ -6,7 +6,6 @@ comments: true
 categories: ["mind over matter"]
 published: true
 image: "assets/images/on-writing.jpg"
-tags: sticky
 ---
 TL;DR: Always be writing, if possible everyday, and if possible on the internet for everyone to read.
 Writing is a valuable skill worth cultivating. It helps you think better, opens up new opportunities for yourself, and others will benefit from your writing.

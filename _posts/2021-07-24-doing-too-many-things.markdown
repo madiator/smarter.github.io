@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No, don't do too many things"
+title: "Put compounding to work by focusing on fewer things"
 date: 2021-07-24 00:00
 comments: true
 categories: ["mind over matter"]

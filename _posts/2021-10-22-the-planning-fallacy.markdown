@@ -35,7 +35,7 @@ The more abstract your project is regarding its implementation details, the more
 ## Skunk Works: a case study
 While projects getting delayed sounds more like the norm, [Skunk Works](https://en.wikipedia.org/wiki/Skunk_Works), the famed advanced division of Lockheed Martin, has had a trail record of finishing projects on time. How did they do it? 
 
-It appears that Clarence Kelly Johnson, the chief of Skunk Works during some of its golden years, was a master of detail. He seemed to have possessed this incredible power of understanding every minor component in the aircraft they were building. This should have made the planning process a lot more concrete and thus a lot less volatile. It was also helpful that Clarence Kelly Johnson took pride in delivering on time and pushed people to be their best and go on overdrive when necessary (like working long hours and during weekends).
+It appears that Clarence "Kelly" Johnson, the chief of Skunk Works during some of its golden years, was a master of detail. He seemed to have possessed this incredible power of understanding every minor component in the aircraft they were building. This should have made the planning process a lot more concrete and thus a lot less volatile. It was also helpful that Clarence Kelly Johnson took pride in delivering on time and pushed people to be their best and go on overdrive when necessary (like working long hours and during weekends).
 
 They also seemed to have minimized dependence on external factors, and even other parts of the company. They even built their own tools.
 
