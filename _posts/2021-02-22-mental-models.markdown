@@ -3,7 +3,7 @@ layout: post
 title: "Mental Models"
 date: 2021-02-11 00:00
 comments: true
-categories: ["mind over matter"]
+categories: ["mental models"]
 image: "assets/images/model-of-a-truck.jpg"
 published: true
 ---
