@@ -48,7 +48,7 @@ I believe that the role of leaders is actually to work on the Structures/Systems
 
 ## Iceberg Analysis at work
 As alluded above, leadership requires thinking in levels three (designing systems) and four (transforming mental models).
-If you are in a leadership role, but operating at levels one (reactive) and two (antipating), then perhaps you are doing more of management than leadership.
+If you are in a leadership role, but operating at levels one (reactive) and two (anticipating), then perhaps you are doing more of management than leadership.
 
 Even if you are not in a leadership position, you could utilize Iceberg analysis to help inform you how to work on problems. When you run into issues with a collaborator, try to come up with the real reason why conflict is arising.  
 

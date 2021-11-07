@@ -37,7 +37,6 @@ In a similar vein, I think the world is made richer by writers, poets, actors, d
 
 No wonder the variants of the word "producing" are used in so many places: productivity, gross domestic product, etc.
 
-<script async data-uid="8489d98453" src="https://witty-speaker-2308.ck.page/8489d98453/index.js"></script>
 
 ### Producing exposes gaps in your knowledge
 

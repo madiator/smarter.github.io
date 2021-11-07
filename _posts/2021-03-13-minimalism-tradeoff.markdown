@@ -24,7 +24,6 @@ But there are times when it is nice to have a printer. On a Sunday night, for wh
 Here is a popular definition of [Minimalism](https://www.becomingminimalist.com/what-is-minimalism/#:~:text=MINIMALISM ):
 > Like I mentioned before, minimalism is intentionally living with only the things I really need—those items that support my purpose. I am removing the distraction of excess possessions so I can focus more on those things that matter most.
 
-<script async data-uid="8489d98453" src="https://witty-speaker-2308.ck.page/8489d98453/index.js"></script>
 
 Imagine what happened to those who had intentionally set themselves up with a tiny home when the pandemic hit and had to work from home.
 

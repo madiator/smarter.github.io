@@ -64,9 +64,6 @@ Pretty simple right? When I encountered this, I chose 3.
 
 I will let you figure out the reason. And then take a minute to reflect on what happened to you when you tried to come up with the answer. For me, the answer presented itself, and my brain refused to think through all the possibilities. Herein lies the problem. 
 
-<script async data-uid="8489d98453" src="https://witty-speaker-2308.ck.page/8489d98453/index.js"></script>
-
-
 ### It is the cognitive effort, stupid!
 
 Our brain is designed to conserve as much energy as possible --- thinking through such problems consumes valuable energy. This mechanism of conserving energy worked out well, evolutionarily speaking. But clearly, this starts to become a handicap when we want to use our full mental faculty to apply logic or reason.
