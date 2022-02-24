@@ -7,8 +7,10 @@ categories: ["mind over matter"]
 published: true
 image: assets/images/lego.jpg
 figcaption: Photo by <a href="https://unsplash.com/@glencarrie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glen Carrie</a> on <a href="https://unsplash.com/s/photos/legos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-tags: sticky
+tags: featured
 ---
+
+
 People are surprisingly good at adding to rather than subtracting away.
 
 Think about it. How often do you go about throwing away what you have and decluttering vs. how often you decide to buy stuff?
@@ -17,6 +19,9 @@ This tendency to add to is a cognitive bias that I only recently came to know.
  
 In an [interesting article on Scientific American](https://www.scientificamerican.com/article/our-brain-typically-overlooks-this-brilliant-problem-solving-strategy/), the author says:
 > [Leidy Klotz](https://engineering.virginia.edu/faculty/leidy-klotz), an engineer at the University of Virginia, noticed that minimalist designs, in which elements are removed from an existing model, were uncommon. So he reached out to [Gabrielle Adams](https://batten.virginia.edu/people/gabrielle-adams), a social psychologist at the university, to try to figure out why this was the case. The two researchers hypothesized that there might be a psychological explanation: when faced with a problem, *people tend to select solutions that involve adding new elements rather than taking existing components away.*
+
+<iframe src="https://newsletter.smarter.blog/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 
 That's remarkable. Here are some examples:
 

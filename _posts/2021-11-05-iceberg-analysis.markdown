@@ -7,7 +7,7 @@ categories: ["mental models"]
 published: true
 image: assets/images/iceberg.jpg
 figcaption: Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/iceberg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>. Their caption is "I took this with my Mavic Pro drone, flying over this huge iceberg from the boat you see on the bottom right as my travel... I knew most of an iceberg is below water but when I saw it from above the sheer scale of it made me gasp!"
-  
+tags: featured
 
 ---
 Everyone knows that prevention is better than cure. Yet, when we face a problem, we often identify a cure and move on instead of understanding the source of the problem and preventing it from happening the next time.
@@ -32,6 +32,8 @@ If you stop at the first level, you are merely being **reactive**.
 Getting to the second level helps you to **anticipate** the problems.
 The third level of thinking allows you to modify or **design** the systems. 
 Finally, when you address the mental models themselves, you can **transform** the problem.
+
+<iframe src="https://newsletter.smarter.blog/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 Let's do another exercise using Iceberg analysis.
 
