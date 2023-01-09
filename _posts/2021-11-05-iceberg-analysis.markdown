@@ -6,8 +6,8 @@ comments: true
 categories: ["mental models"]
 published: true
 image: assets/images/iceberg.jpg
-figcaption: Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/iceberg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>. Their caption is "I took this with my Mavic Pro drone, flying over this huge iceberg from the boat you see on the bottom right as my travel... I knew most of an iceberg is below water but when I saw it from above the sheer scale of it made me gasp!"
-tags: featured
+figcaption: Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/iceberg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
+tags: sticky
 
 ---
 Everyone knows that prevention is better than cure. Yet, when we face a problem, we often identify a cure and move on instead of understanding the source of the problem and preventing it from happening the next time.
